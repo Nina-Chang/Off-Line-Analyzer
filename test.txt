@@ -1,0 +1,7 @@
+Account Full Name=>accountName:String
+Country Code=>countryName:String
+Assigned to=>accountOwner:String
+Last Updated=>lastUpdateTime:Time
+Created on=>createTime:Time
+Primary Contact Email=>primaryContact:Contact
+Lead status=>status:AccountStatus
